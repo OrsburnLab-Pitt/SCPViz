@@ -33,4 +33,8 @@ The example that started this whole project was that some single cells weren't m
 You can go into the bar plot and just start highlighting the cells - at a protein or peptide level - that aren't responding the right way - and now you can add them to a new population.
 BOOM - you've got a new group of cells that you can compare to the others to find out why they're special. 
 
-Updated paper and tutorial stuff coming soon. 
+<img width="784" height="619" alt="Screenshot 2026-04-17 153428" src="https://github.com/user-attachments/assets/599ff06d-2704-48a4-9520-9ea018b4162a" />
+
+In this example, I've just decided an arbitrary cutoff for cells with a LOT of histone H4. They may be dividing our your sorter might have (gasp!) made a mistake and isolated 2 cells. Either way this is going to convolute your analysis. Just label them as a new group and take them out of your downstream pseudobulk comparisons. 
+
+New paper and tutorial stuff coming soon. 
